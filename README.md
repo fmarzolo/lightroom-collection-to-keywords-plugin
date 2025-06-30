@@ -23,16 +23,6 @@ This tool helps maintain a parallel organization system between collections and 
 4.  A dialog box will ask for confirmation. Click **"Proceed"** to start the process.
 5.  A progress bar will appear, and once finished, the keywords of the selected photos will be updated.
 
-## Installation
-
-1.  Download the zipped plugin folder, `CollectionToKeywords.lrplugin.zip`, and unzip it. You should have a folder named `CollectionToKeywords.lrplugin`.
-2.  Open Adobe Lightroom Classic.
-3.  Navigate to `File > Plug-in Manager...`.
-4.  Click the **"Add"** button in the bottom-left corner of the window.
-5.  Browse to the location where you unzipped the folder, select the `CollectionToKeywords.lrplugin` folder, and click **"Select Folder"**.
-6.  Ensure the plugin is enabled (it should have a green light next to its name). Click **"Done"**.
-
-The plugin is now installed and ready to use.
 
 ## Author
 
